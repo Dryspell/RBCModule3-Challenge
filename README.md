@@ -4,7 +4,7 @@
 The purpose of this project is to exemplify basic Python data analytics by importing a csv file of election results, compiling some straighforward analysis and outputting to a txt file. 
 
 ## Election-Audit Results
-The results, see [here](./analysis/election_analysis.TXT), show that:
+The results, see [here](./analysis/election_analysis.txt), show that:
 
 1. 369,711 votes were cast in this congressional election.
 2. The counties voted as follows:
